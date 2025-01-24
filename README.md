@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dhashwanth
 - 👀 I’m interested in ... PROGRAMMING
 - 🌱 I’m currently learning ... PYTHON
-- 💞️ I’m looking to collaborate on ... CODIND
+- 💞️ I’m looking to collaborate on ... CODING
 - 📫 How to reach me ...
 
 <!---
